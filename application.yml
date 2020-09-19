@@ -1,15 +1,4 @@
-[dev]
 database:
   name: postgres
   port: 5432
-
-[prod]
-database:
-  name: mysql
-  port: 5555
- 
-[default]
-database:
-  name: mysql
-  port: 5555
   
