@@ -2,4 +2,5 @@ database:
   name: postgres
   port: 5432
   env: dev-cluster
+  profile: dev
   
