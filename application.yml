@@ -4,3 +4,9 @@ database:
   env: dev-cluster
   profile: dev
   
+database:
+  name: mysql
+  port: 5432
+  env: qa-cluster
+  profile: qa
+  
