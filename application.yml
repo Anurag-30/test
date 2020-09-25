@@ -3,10 +3,4 @@ database:
   port: 5432
   env: dev-cluster
   profile: dev
----
-database:
-  name: testing-auto-refresh
-  port: 5432
-  env: qa-cluster
-  profile: qa
-  
+
