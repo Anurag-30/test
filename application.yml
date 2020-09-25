@@ -5,7 +5,7 @@ database:
   profile: dev
 ---
 database:
-  name: my-qa-database
+  name: testing-auto-refresh
   port: 5432
   env: qa-cluster
   profile: qa
