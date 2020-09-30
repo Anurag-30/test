@@ -1,5 +1,0 @@
-database:
-  name: test-db
-  port: 5432
-  env: dev-cluster
-  profile: dev
