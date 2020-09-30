@@ -1,0 +1,6 @@
+database:
+  name: qa-db
+  port: 5432
+  env: qa-cluster
+  profile: qa
+
