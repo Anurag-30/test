@@ -5,7 +5,7 @@ database:
   profile: dev
 ---
 database:
-  name: test234
+  name: test456
   port: 5432
   env: dev-cluster
   profile: qa
