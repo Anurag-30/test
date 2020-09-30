@@ -1,6 +1,6 @@
 database:
-  name: test456
+  name: dev-db
   port: 5432
-  env: qa-cluster
-  profile: qa
+  env: dev-cluster
+  profile: dev
 
