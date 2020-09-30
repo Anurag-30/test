@@ -3,10 +3,3 @@ database:
   port: 5432
   env: dev-cluster
   profile: dev
----
-database:
-  name: test456
-  port: 5432
-  env: dev-cluster
-  profile: qa
-
